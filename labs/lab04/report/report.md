@@ -33,10 +33,10 @@ polyglossia-otherlangs:
 babel-lang: russian
 babel-otherlangs: english
 ## Fonts
-mainfont: PT Serif
-romanfont: PT Serif
+mainfont: PT Sans
+romanfont: PT Sans
 sansfont: PT Sans
-monofont: PT Mono
+monofont: PT Sans
 mainfontoptions: Ligatures=TeX
 romanfontoptions: Ligatures=TeX
 sansfontoptions: Ligatures=TeX,Scale=MatchLowercase
